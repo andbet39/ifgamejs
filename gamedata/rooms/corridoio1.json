@@ -1,0 +1,17 @@
+﻿{
+  "title": "Un cunicolo buio",
+  "description": "Di fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra",
+  "items": [],
+  "exits": [
+    {
+      "name": "sinistra",
+      "goto": "st1",
+      "description": "Apri la porta alla tua sinistra ed entri"
+    },
+    {
+      "name": "destra",
+      "goto": "st2",
+      "description": "Apri la porta alla tua destra ed entri"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "title": "Il bosco da dove sei venuto",
+  "description": "Brutto codardo, dove vorresti andare ?  Torna alla miniera",
+  "items": [],
+  "exits": [
+    {
+      "name": "miniera",
+      "goto": "MineEntrance",
+      "description": "Torni alla miniera"
+    }
+  ]
+}

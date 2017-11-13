@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "apiai": "^4.0.3",
-    "chalk": "^2.3.0"
+    "chalk": "^2.3.0",
+    "winston": "^3.0.0-rc1"
   }
 }
