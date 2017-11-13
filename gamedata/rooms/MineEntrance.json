@@ -1,0 +1,17 @@
+﻿{
+  "title": "Entrata della miniera",
+  "description": "L' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco",
+  "items": [],
+  "exits": [
+    {
+      "name": "bosco",
+      "goto": "bosco1",
+      "description": "Meglio tornare indietro e lasciar perdere la miniera"
+    },
+    {
+      "name": "corridoio",
+      "goto": "corridoio1",
+      "description": "Entri nella miniera soddisfatto."
+    }
+  ]
+}

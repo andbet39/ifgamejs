@@ -1,0 +1,13 @@
+{
+  "name": "if-engine-js",
+  "version": "0.0.0",
+  "description": "IfEngineJs",
+  "main": "app.js",
+  "author": {
+    "name": "Andrea"
+  },
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "chalk": "^2.3.0"
+  }
+}
