@@ -4,6 +4,11 @@
   "items": [],
   "exits": [
     {
+      "name": "indietro",
+      "goto": "MineEntrance",
+      "description": "Torni indietro"
+    },
+    {
       "name": "sinistra",
       "goto": "st1",
       "description": "Apri la porta alla tua sinistra ed entri"

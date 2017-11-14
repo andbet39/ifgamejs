@@ -14,3 +14,31 @@
 {"message":"vai nel corridoio","level":"info"}
 {"message":"entra nel corridoio","level":"info"}
 {"message":"exit_name:corridoio","level":"info"}
+{"message":"goto action => miniera","level":"info"}
+{"message":"goto action => miniera","level":"info"}
+{"message":"goto action => miniera","level":"info"}
+{"message":"Newmess: \nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco\nHo capito\n Questa opzione non � diponibile","level":"info"}
+{"message":"goto action => miniera","level":"info"}
+{"message":"Newmess: \nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco\nHo capito\n Questa opzione non � diponibile","level":"info"}
+{"message":"goto action => miniera","level":"info"}
+{"message":"Newmess: \nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco\nVa bene\n Questa opzione non � diponibile","level":"info"}
+{"message":"goto action => corridoio","level":"info"}
+{"message":"Newmess: \nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco\nVa bene\n Questa opzione non � diponibile\nOttima idea\nUn cunicolo buio\nDi fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra","level":"info"}
+{"message":"goto action => corridoio","level":"info"}
+{"message":"Newmess: \nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco\nHo capito\nUn cunicolo buio\nDi fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra","level":"info"}
+{"message":"goto action => destra","level":"info"}
+{"message":"goto action => corridoio","level":"info"}
+{"message":"Newmess: \nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco\nSarà la scelta giusta?\nUn cunicolo buio\nDi fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra","level":"info"}
+{"message":"goto action => corridoio","level":"info"}
+{"message":"Newmess: \nHo capito\nUn cunicolo buio\nDi fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra","level":"info"}
+{"message":"goto action => destra","level":"info"}
+{"message":"goto action => corridoio","level":"info"}
+{"message":"Newmess: \nSarà la scelta giusta?\nUn cunicolo buio\nDi fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra","level":"info"}
+{"message":"Newmess: \nNon ti ho sentito bene. Puoi ripetere?","level":"info"}
+{"message":"Newmess: \nNon penso di seguirti. Potresti ripetere?","level":"info"}
+{"message":"goto action => destra","level":"info"}
+{"message":"goto action => corridoio","level":"info"}
+{"message":"Newmess: \nVa bene\nUn cunicolo buio\nDi fronte a te un lungo e buoi corridoio... Ci sono due porte una a destra e una a sinistra","level":"info"}
+{"message":"goto action => indietro","level":"info"}
+{"message":"Newmess: \nVa bene\nEntrata della miniera\nL' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco","level":"info"}
+{"message":"Newmess: \nPotresti dirlo ancora una volta?","level":"info"}
