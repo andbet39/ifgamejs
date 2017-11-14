@@ -6,7 +6,7 @@
     <ProjectGuid>{08966fe1-cb89-49e0-a193-0504c279b95c}</ProjectGuid>
     <ProjectHome />
     <ProjectView>ShowAllFiles</ProjectView>
-    <StartupFile>app.js</StartupFile>
+    <StartupFile>game.js</StartupFile>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <ProjectTypeGuids>{3AF33F2E-1136-4D97-BBB7-1795711AC8B8};{349c5851-65df-11da-9384-00065b846f21};{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}</ProjectTypeGuids>
@@ -23,7 +23,7 @@
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
-    <Compile Include="app.js" />
+    <Compile Include="ifEngine.js" />
     <Content Include="gamedata\main.json" />
     <Content Include="gamedata\rooms\MineEntrance.json" />
   </ItemGroup>
