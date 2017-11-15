@@ -1,7 +1,10 @@
 ﻿{
   "title": "Entrata della miniera",
   "description": "L' entrata di una vecchia miniera. Di fronte a te un lungo e buio corridoio. Alle tue spalle un bosco",
-  "items": [],
+  "items": [{"name":"Spada" , "inspect_description" :"Una vecchia spada arruginita","takable":true, "take_text":"Hai raccolto una vecchia spada arruginita" , "linked_item":"spada1"},
+            {"name":"torcia" , "inspect_description" :"Una vecchia torcia","takable":true, "take_text":"Hai raccolto una torcia","linked_item":"torchlight"},
+            {"name":"scheletro" , "inspect_description" :"Uno scheletro umano","takable":false, "take_text":"Non ci penso nemmeno a mettere le mani in quel mucchio di ossa"}
+            ],
   "exits": [
     {
       "name": "bosco",
